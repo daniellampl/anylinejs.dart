@@ -1,1 +1,1 @@
-# anylinejs.dart
+A Dart API for [anylinejs](https://github.com/Anyline/anyline-ocr-anylinejs-module) using [package:js/js.dart](https://pub.dev/packages/js), [dart_js_facade_gen](https://github.com/dart-lang/js_facade_gen) and few manual adjustments.

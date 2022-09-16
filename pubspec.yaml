@@ -1,0 +1,13 @@
+name: anylinejs
+description: A Dart API for anylinejs.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  js: ^0.6.4
+
+dev_dependencies:
+  lints: ^2.0.0
